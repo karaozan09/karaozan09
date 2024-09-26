@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Büşra .I am interest with Python, SQL and Cyber Security.🐉👩‍💻
+I am Büşra Zümra .I am interest with Python, SQL and Cyber Security.🐉👩‍💻
 <!--
 **karaozan09/karaozan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
