@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Büşra Zümra .I am interest with Python, SQL and Cyber Security.🐉👩‍💻
+I am Büşra Zümra .I am interest with Software.🐉👩‍💻
 
 ![Uploading baby.png…]()
 
